@@ -34,7 +34,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/jiosaavnmusic/JioSaavn && cd JioSaavn```
+   git clone https://github.com/Rocky9852/Saregama- && cd Saregama-```
 6. **Install Requirements**
    ```bash
    pip3 install -U -r requirements.txt
